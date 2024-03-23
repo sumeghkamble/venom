@@ -1,0 +1,8 @@
+name,age,sal,city
+asad,25,56660,as
+sadas,55,90000,
+sxs,40,76000,jka
+assa,,55000,
+,,,,
+,32,,s
+,,,q
